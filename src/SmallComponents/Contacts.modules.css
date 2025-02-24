@@ -1,0 +1,31 @@
+.ContactBody {
+  display: flex;
+  width: 100%;
+}
+
+.Email {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 2% 5% 2% 5%;
+  width: 40%;
+}
+.InputAtom {
+  display: flex;
+  flex-direction: column;
+  margin-top: 3%;
+}
+.ContactInfoTitle {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 8%;
+  margin-top: 2%;
+}
+.atom {
+  display: flex;
+  justify-content: space-between;
+}
+.ContactInfo {
+  width: 30%;
+}

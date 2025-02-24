@@ -1,0 +1,34 @@
+.NavagationTab {
+  display: flex;
+  margin-top: 75%;
+  margin-bottom: 130%;
+  flex-direction: column;
+  color: gray;
+  align-items: center;
+}
+.NavagationItem {
+  margin-top: 30%;
+  font-size: large;
+  border: 0px solid gray;
+  align-items: center;
+  background-color: rgb(238, 238, 238);
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  justify-items: center;
+  align-content: center;
+}
+.NavagationItem:hover {
+  background-color: rgb(255, 180, 0);
+  color: black;
+  font-size: xx-large;
+}
+.NavagationIcon {
+  display: flex;
+
+  align-items: center !important;
+}
+a {
+  text-decoration: none;
+  color: gray;
+}

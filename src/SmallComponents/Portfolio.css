@@ -1,0 +1,21 @@
+.Header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  font-size: xx-large;
+  background-color: #1f1f1f;
+  color: white;
+}
+.Container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 3% 0%;
+}
+.Infos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

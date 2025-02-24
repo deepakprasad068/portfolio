@@ -1,0 +1,68 @@
+.titles {
+  margin-top: 5%;
+  display: flex;
+  color: #000;
+  justify-content: center;
+}
+.h1center {
+  margin-top: 0%;
+  align-self: center;
+  color: #000;
+}
+.mainContain {
+  /* margin-top: 5%; */
+  display: flex;
+  background-color: #fff;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.PricePlain {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.Education {
+  /* margin-top: 5%; */
+  display: flex;
+  background-color: #fff;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ProjectWork {
+  /* margin-top: 5%; */
+  display: flex;
+  background-color: #fff;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.Portfolio {
+  /* margin-top: 5%; */
+  display: flex;
+  background-color: #fff;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ContactsTitles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 5%;
+  justify-content: space-around;
+  font-size: xx-large;
+  font-weight: bolder;
+  margin-left: 8%;
+}
+.ContactsMain {
+  margin-top: 5%;
+  display: flex;
+
+  width: 100%;
+}

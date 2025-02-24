@@ -1,0 +1,28 @@
+.PlayButton {
+  display: flex;
+  color: black;
+  background-color: #ffb400;
+  padding: 3% 5%;
+  justify-content: center;
+  font-size: larger;
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 5% 20% 5% 0%;
+  border-radius: 5px;
+}
+.PlayButton:hover {
+  background-color: royalblue;
+  color: white;
+}
+.GameName {
+  font-weight: bolder !important;
+  font-size: x-large !important;
+  margin-bottom: 0px !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+}
+.lockGame {
+  color: rgb(98, 5, 5);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+  font-size: large;
+  font-weight: bold !important;
+}

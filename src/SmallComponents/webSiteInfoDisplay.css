@@ -1,0 +1,26 @@
+.webContain {
+  flex-direction: row;
+  background-color: rgba(240, 232, 232, 0.453);
+  width: 100%;
+  justify-content: space-evenly;
+  border: 2px solid rgba(255, 211, 211, 0.745);
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  height: auto;
+}
+.WebSiteImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover !important;
+}
+.webSitename {
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+.WebSitedesc {
+  margin-left: 5%;
+  color: gray;
+  font-size: medium;
+  margin-top: 0%;
+}

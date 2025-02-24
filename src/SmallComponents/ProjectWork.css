@@ -1,0 +1,15 @@
+.titles {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-family: "playfair Display !important";
+}
+.Info {
+  display: flex;
+
+  justify-content: space-between;
+  margin: 2% 5%;
+}
+.GapBetween {
+  width: 30%;
+}

@@ -1,0 +1,21 @@
+.services {
+  display: flex;
+  margin: 2%;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+
+.Item {
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  /* border: 1px solid gray;
+  border-radius: 20px; */
+}
+
+.FontStyle {
+  font-size: 3em;
+  font-weight: bold;
+}

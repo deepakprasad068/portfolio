@@ -1,0 +1,12 @@
+.titles {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.Info {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-between;
+  margin: 2% 5%;
+}

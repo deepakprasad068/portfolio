@@ -1,0 +1,7 @@
+.HomeIndex {
+  position: fixed;
+
+  right: 0.8%;
+  z-index: 100;
+  width: 15%;
+}
