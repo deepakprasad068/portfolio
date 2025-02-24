@@ -18,6 +18,7 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import "./PDCard.css";
+import myimage from "../assets/new img-Photoroom.png";
 import Avatar from "@mui/material/Avatar";
 import Stack from "@mui/material/Stack";
 import CVDownloadButton from "./downloadCv";
@@ -31,12 +32,7 @@ export default function MediaCard() {
       {/* photo  */}
 
       <span className="PDCardPhoto">
-        <img
-          className="PDImage"
-          src="./src/assets/new img-Photoroom.png"
-          alt=""
-          style={{ width: "40%", height: "60%" }}
-        />
+        <img className="PDImage" src={myimage} alt="" />
       </span>
 
       <CardContent>
